@@ -1,3 +1,3 @@
 import BottomNavigator from "./BottomNavigator";
-
-export {BottomNavigator}
+import HeaderComponent from "./HeaderComponent";
+export {BottomNavigator, HeaderComponent}
